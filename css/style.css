@@ -1,0 +1,29 @@
+.container{
+    max-height: 600px;
+}
+.row{
+    /* margin: 10px; */
+}
+
+.col-4{height: 200px;/* margin: 1px; */}
+.col-6{
+    height: 200px;
+    /* margin: 1px; */
+}
+.col-2{
+    height: 200px;
+    /* margin: 1px; */
+}
+.col-8{
+    height: 200px;
+    /* margin: 1px; */
+}
+.bg-solid{
+    background: #E25102;
+}
+.bg-mid{
+    background: #E99161;
+}
+.bg-normal{
+    background: #ECA177;
+}
